@@ -1,0 +1,2 @@
+# SpotifyAnalysis
+Everyone's raving to the newest hit single by the hottest artist. Shopping malls and eateries only play the most trending and most hip songs. Don't we all get tired of those songs after a while? We want to know what makes a song popular, and beyond that a chart topper - and then proceed to flip all of that upside down. We want to uncover the overlooked, misunderstood and underrated, songs that deserve to be played, down supermarket aisles and up on-air. Here's to the undervalued songs!
