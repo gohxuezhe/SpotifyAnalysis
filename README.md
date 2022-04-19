@@ -27,9 +27,9 @@ Everyone's raving to the newest hit single by the hottest artist. Shopping malls
 - No audio feature tested has a strong correlation with popularity but loudness is strongly correlated with energy while both have strong negative correlation with acousticness
 
 Our playlists:
-[The Overlooked](https://open.spotify.com/playlist/6Ul5P7JtKkS89F52Sa9zGe?si=a2d0f6c22a654851)
-[The Ones that Got Away](https://open.spotify.com/playlist/6zOj6hJJng6f1f2d0uYRhp?si=77aaabd69e884a28) ~_Editor's pick_~
-[The Criminally Underrated](https://open.spotify.com/playlist/5i5HAFOlSRARd9PPkSwNDw?si=562486d999af4a75)
+- [The Overlooked](https://open.spotify.com/playlist/6Ul5P7JtKkS89F52Sa9zGe?si=a2d0f6c22a654851)
+- [The Ones that Got Away](https://open.spotify.com/playlist/6zOj6hJJng6f1f2d0uYRhp?si=77aaabd69e884a28) _(Editor's pick)_
+- [The Criminally Underrated](https://open.spotify.com/playlist/5i5HAFOlSRARd9PPkSwNDw?si=562486d999af4a75)
 
 ## Learnings from this project
 - Increasing Classifier Tree's depth does not necessarily increase classification accuracy and runs the risk of overfitting
@@ -38,8 +38,8 @@ Our playlists:
 - Spotify API call 
 
 ## References
-[Spotify API](https://developer.spotify.com/console/post-playlist-tracks/)
-[K-Nearest Neighbour](https://towardsdatascience.com/predicting-popularity-on-spotify-when-data-needs-culture-more-than-culture-needs-data-2ed3661f75f1#:~:text=According%20to%20Spotify,%20%E2%80%9Cpopularity%20is,a%20lot%20in%20the%20past.%E2%80%9D)
-[Random Forest](https://datatofish.com/random-forest-python/)
-[Random Forest v.s. Decision Tree](https://www.kdnuggets.com/2022/02/random-forest-decision-tree-key-differences.html)
-[Stack Overflow](https://stackoverflow.com/)
+- [Spotify API](https://developer.spotify.com/console/post-playlist-tracks/)
+- [K-Nearest Neighbour](https://towardsdatascience.com/predicting-popularity-on-spotify-when-data-needs-culture-more-than-culture-needs-data-2ed3661f75f1#:~:text=According%20to%20Spotify,%20%E2%80%9Cpopularity%20is,a%20lot%20in%20the%20past.%E2%80%9D)
+- [Random Forest](https://datatofish.com/random-forest-python/)
+- [Random Forest v.s. Decision Tree](https://www.kdnuggets.com/2022/02/random-forest-decision-tree-key-differences.html)
+- [Stack Overflow](https://stackoverflow.com/)
